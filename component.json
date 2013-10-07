@@ -1,0 +1,14 @@
+{
+  "name": "pulsed",
+  "repo": "jwerle/pulsed",
+  "description": "Run a function n amount of times with a given interval pattern",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
