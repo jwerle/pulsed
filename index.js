@@ -48,7 +48,7 @@ function pulsed (pattern, count, fn) {
     ~function run () {
       to = setTimeout(function () {
         if (n >= count) return;
-        fn.apply(null, arguments);
+        fn.apply(null, args);
         run();
         n++;
       }, interval);
